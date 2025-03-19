@@ -1,1 +1,1 @@
-# Student-Mental-Health-ML
+# Student-depression-model
